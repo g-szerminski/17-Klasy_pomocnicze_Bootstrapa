@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #e2e0e0;
+}
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;	
+	padding: 3% 0;	
+}
+
+.gallery img {
+	margin: 0.3% 0; 
+}
+
+.table {
+	border-color: #676262;
+}
+
+thead>tr>th {
+	text-align: center;
+}
+
+button {
+	margin-top: 1%;	
+}
